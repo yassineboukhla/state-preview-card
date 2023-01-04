@@ -22,19 +22,21 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://github.com/yassineboukhla/state-preview-card)
+- Live Site URL: [Here](https://yassineboukhla.github.ion/state-preview-card)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML
+- CSS
 
 ### What I learned
 
+- Add overlay
+
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - [Yassine Boukhla](https://www.linkedin.com/in/yassine-boukhla)
+- Frontend Mentor - [@yassineboukhla](https://www.frontendmentor.io/profile/yassineboukhla)
