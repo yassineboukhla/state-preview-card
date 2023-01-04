@@ -17,6 +17,7 @@ body {
   background-color: hsl(244, 38%, 16%);
   margin-left: auto;
   margin-right: auto;
+  margin-top: 100px;
   border-radius: 20px;
 }
 .stats-details {
@@ -75,7 +76,7 @@ body {
   .stats {
     display: block;
     width: 400px;
-    height: auto;
+    /* height: auto; */
     background-color: hsl(244, 38%, 16%);
     margin-left: auto;
     margin-right: auto;
@@ -84,18 +85,34 @@ body {
   }
   .stats-img {
     width: 100%;
-    /* position: absolute; */
     top: 0;
   }
   .stats-image {
     border-radius: 20px 20px 0px 0px;
   }
   .overlay {
-    border-radius: 0px;
     border-radius: 20px 20px 0px 0px;
+    height: 99%;
   }
   .stats-details {
     width: 100%;
     padding: 40px;
+    position: absolute;
+    top: 100%;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 0px 0px 20px 20px;
+    text-align: center;
+  }
+  .stats-description {
+    margin-bottom: 50px;
+  }
+  .stats-numbers {
+    display: block;
+  }
+  .stats-numbers p {
+    margin-bottom: 40px;
+  }
+  .stats-numbers p:last-child {
+    margin-bottom: 10px;
   }
 }
