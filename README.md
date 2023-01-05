@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Here](https://github.com/yassineboukhla/state-preview-card)
-- Live Site URL: [Here](https://yassineboukhla.github.ion/state-preview-card)
+- Live Site URL: [Here](https://yassineboukhla.github.io/state-preview-card)
 
 ## My process
 
