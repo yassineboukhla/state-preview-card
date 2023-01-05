@@ -15,7 +15,6 @@ main {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-color: white;
 }
 .stats {
   display: flex;
